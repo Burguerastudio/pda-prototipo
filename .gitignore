@@ -1,5 +1,8 @@
+# Only key-visuals goes to the repo
+docs/
+references/
+src/
 .DS_Store
 node_modules/
 .vercel/
 *.log
-.vercel
