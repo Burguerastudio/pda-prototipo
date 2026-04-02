@@ -13,9 +13,9 @@ Crear proyecto tipo **Board** con 6 columnas. Nombre: `PDA BULLYING | Escuela de
 | Recibir inputs de la agencia (narrativa, test players, storybrand) | Alta | ✅ Hecho |
 | Generar docs/ con /sepia-setup | Alta | ✅ Hecho |
 | Recibir test de players y storybrand oficial | Media | ⏳ Pendiente de copywriter |
-| Buscar y organizar referencias visuales | Alta | 🔲 Por hacer |
+| Buscar y organizar referencias visuales | Alta | ✅ Hecho |
 
-**Notas**: Los inputs recibidos hasta ahora son la narrativa de marca y notas de la copy. Falta el test de players (arquetipos) y el storybrand oficial. Las referencias se organizan siguiendo `references/GUIA-REFERENCIAS.md`.
+**Notas**: Narrativa de marca recibida + notas de la copy. Falta test de players y storybrand oficial. 26 referencias descargadas automaticamente + INDEX.md con links manuales.
 
 ---
 
@@ -23,13 +23,17 @@ Crear proyecto tipo **Board** con 6 columnas. Nombre: `PDA BULLYING | Escuela de
 
 | Tarea | Prioridad | Dependencia |
 |-------|-----------|-------------|
-| Generar Direccion A en Stitch (El Bosque Profundo) | Alta | Referencias listas |
-| Generar Direccion B en Stitch (El Claro) | Alta | Referencias listas |
-| Presentar key visuals al cliente y elegir direccion | Alta | Direcciones A y B listas |
+| Generar Direccion A — El Bosque Profundo | Alta | ✅ Hecho |
+| Generar Direccion B — El Claro Iluminado | Alta | ✅ Hecho |
+| Montar presentacion HTML interactiva | Alta | ✅ Hecho |
+| Deploy a Vercel | Alta | ✅ Hecho |
+| Presentar key visuals al cliente y elegir direccion | Alta | ⏳ Esperando respuesta |
 
-**Direccion A — El Bosque Profundo**: Dark UI, bosque nocturno/crepuscular, niebla, glassmorphism oscuro, acentos ambar/dorado (luz de farol). Ref: Firewatch noche + The Long Dark.
+**URL**: https://pda-prototipo.vercel.app/key-visuals/
 
-**Direccion B — El Claro**: Light/warm UI, bosque diurno con luz filtrandose, texturas papel/madera, verde bosque + dorado. Ref: Firewatch dia + cartografia vintage.
+**Direccion A — El Bosque Profundo**: Dark UI azul noche + ambar farol, Playfair Display, glassmorphism angular, ornamentos geometricos RPG.
+
+**Direccion B — El Claro Iluminado**: Light UI crema pergamino + verde bosque, Lora, bordes cosidos, ornamentos botanicos vintage.
 
 ---
 
