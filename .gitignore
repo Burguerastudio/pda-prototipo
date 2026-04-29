@@ -6,3 +6,5 @@ src/
 node_modules/
 .vercel/
 *.log
+
+inputs/
